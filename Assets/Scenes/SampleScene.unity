@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 3903a107c8736f24f8d4c4c4330d9d25, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_IndirectSpecularColor: {r: 0.029087335, g: 0.0298977, b: 0.029896766, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -500,6 +500,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1102287093}
     m_Modifications:
+    - target: {fileID: 1277973426348099783, guid: ccbfdc64594325c4ebfb2ccd9a074f8b, type: 3}
+      propertyPath: m_Color.b
+      value: 0.023584902
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277973426348099783, guid: ccbfdc64594325c4ebfb2ccd9a074f8b, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3696501
+      objectReference: {fileID: 0}
+    - target: {fileID: 1277973426348099783, guid: ccbfdc64594325c4ebfb2ccd9a074f8b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1688544825977864341, guid: ccbfdc64594325c4ebfb2ccd9a074f8b, type: 3}
       propertyPath: m_Name
       value: Torch Parent 002
@@ -3641,7 +3653,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -19.25, y: 1.668, z: -0.25}
+  m_LocalPosition: {x: -12.75, y: 1.668, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4406,6 +4418,101 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8460917321318470221, guid: 3964c23ae9838e84889ea6d65b5861aa, type: 3}
   m_PrefabInstance: {fileID: 1163803383}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1168533112
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5735764
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8191521
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 780761152700154019, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3966162326889285121, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0028980768
+      objectReference: {fileID: 0}
+    - target: {fileID: 3966162326889285121, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.018974561
+      objectReference: {fileID: 0}
+    - target: {fileID: 4363578991983522480, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_Name
+      value: Priest
+      objectReference: {fileID: 0}
+    - target: {fileID: 7232730286969761241, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a2371a3d27f7a0548864ad3568078793, type: 2}
+    - target: {fileID: 7232730286969761241, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Hips'\n\tTransform 'Spine1'\n\tTransform
+        'LeftHandMiddle2'\n\tTransform 'Neck'\n\tTransform 'LeftHandRing2'\n\tTransform
+        'LeftHandRing3'\n\tTransform 'LeftUpLeg'\n\tTransform 'LeftHandIndex2'\n\tTransform
+        'LeftHandPinky2'\n\tTransform 'RightLeg'\n\tand more ...\n\tFrom animation
+        clip 'Standing Idle'"
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7232730286969761241, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4363578991983522480, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1190468720}
+  m_SourcePrefab: {fileID: 100100000, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
 --- !u!1001 &1185948744
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4530,6 +4637,33 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6534347502814029905, guid: de072453d6abd9945b9827c2c3b809b5, type: 3}
   m_PrefabInstance: {fileID: 1186067367}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1190468717 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4363578991983522480, guid: 6924745a509f7b746bc74f3d4548b1aa, type: 3}
+  m_PrefabInstance: {fileID: 1168533112}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1190468720
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190468717}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f66fbee2ef0bb6f42ae65e712e85dbfb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1195777698
 GameObject:
   m_ObjectHideFlags: 0
@@ -7828,3 +7962,4 @@ SceneRoots:
   - {fileID: 1201766321}
   - {fileID: 1195777699}
   - {fileID: 1102287093}
+  - {fileID: 1168533112}

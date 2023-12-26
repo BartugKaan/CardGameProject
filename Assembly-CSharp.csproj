@@ -53,11 +53,14 @@
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway 004" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Book 004" />
+     <Folder Include="Assets\Cursed Priest\Prefab" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Book 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Bookshelf 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Crate 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Props" />
+     <Folder Include="Assets\Cursed Priest\Textures" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Stone Fire Chalice 001" />
+     <Folder Include="Assets\Cursed Priest\Materials" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Chest 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Walls\Walls" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Floor Variation 001" />
@@ -67,18 +70,21 @@
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Pillar 003" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Bookshelf Empty 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway Gated 003" />
+     <Folder Include="Assets\Animations" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Arch &amp; Pillars" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Stone Fire Chalice 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Stairs 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Particle Systems\Chest\Chest Light" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Bookshelf empty 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components" />
+     <Folder Include="Assets\SkySeries Freebie\ExampleScenes" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Wall 005" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Floor Variation 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Book 007" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Mesh Containers" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Particle Systems" />
+     <Folder Include="Assets\SkySeries Freebie\FreebieHdri" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Texture Maps\Fire_Texture" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Podium Large 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Book 003" />
@@ -86,6 +92,7 @@
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Walls" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Water Grate 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Metal Grate 001" />
+     <Folder Include="Assets\Cursed Priest" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Door 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Podium 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Lava Grate 001" />
@@ -96,6 +103,7 @@
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Torch 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway Gated 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway 006" />
+     <Folder Include="Assets\Cursed Priest\Animations" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Arch 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Wall 006" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Wall 001" />
@@ -103,6 +111,7 @@
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway 005" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Floors &amp; Stair" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Wall 007" />
+     <Folder Include="Assets\Cursed Priest\Mesh" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Candelabra 001" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Podium 001" />
      <Folder Include="Assets\Scenes" />
@@ -117,6 +126,7 @@
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Particle Systems\Fire Prefab" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Torch 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs" />
+     <Folder Include="Assets\SkySeries Freebie" />
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Props\Books" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Wall 003" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Book 006" />
@@ -124,6 +134,8 @@
      <Folder Include="Assets\Simple Modular Dungeon\Prefabs\Walls\Doorways" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Wall 002" />
      <Folder Include="Assets\Simple Modular Dungeon\Components\Materials\Doorway 003" />
+     <Folder Include="Assets\SkySeries Freebie\ExampleScenes\SceneObjects" />
+     <Folder Include="Assets\Cursed Priest\Demo" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2023.1.5f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
